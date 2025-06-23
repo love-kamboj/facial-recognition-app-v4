@@ -1,0 +1,5 @@
+streamlit==1.25.0
+deepface==0.40
+opencv-python-headless==4.5.5.64
+numpy
+Pillow
